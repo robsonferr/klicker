@@ -1,0 +1,37 @@
+/* Menu - Toggle */
+"menu.enabled" = "Ativado";
+"menu.disabled" = "Desativado";
+
+/* Menu - Click sounds */
+"menu.left_click" = "Clique Esquerdo";
+"menu.right_click" = "Clique Direito";
+
+/* Menu - Volume */
+"menu.volume" = "Volume";
+
+/* Menu - Custom sound */
+"menu.load_custom_sound" = "Carregar Som Personalizado…";
+"menu.custom_sound_panel_title" = "Selecionar arquivo de som";
+
+/* Menu - Launch at login */
+"menu.launch_at_login" = "Executar no Login";
+
+/* Menu - Language */
+"menu.language" = "Idioma";
+
+/* Menu - Quit */
+"menu.quit" = "Sair";
+
+/* Menu - About */
+"menu.about" = "Sobre o Klicker";
+
+/* About window */
+"about.version" = "Versão";
+"about.description" = "Um app leve para macOS que reproduz um som a cada clique do mouse.";
+"about.author" = "Desenvolvido por Robson Ferreira";
+"about.copyright" = "© 2026 Robson Ferreira. MIT License.";
+
+/* Accessibility */
+"accessibility.warning" = "⚠️  Permissão de Acessibilidade necessária!";
+"accessibility.instructions" = "Vá em: Ajustes do Sistema > Privacidade e Segurança > Acessibilidade";
+"accessibility.add_app" = "E adicione este aplicativo.";

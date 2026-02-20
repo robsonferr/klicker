@@ -1,0 +1,10 @@
+# Build output
+build/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Icon generation intermediates
+icon.iconset/
