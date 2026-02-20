@@ -105,7 +105,7 @@ klicker/
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before getting started.
 
 Some ideas:
 - [ ] Trackpad click support
@@ -113,6 +113,16 @@ Some ideas:
 - [ ] Keyboard sound support
 - [ ] More built-in click sounds
 - [ ] Localization
+
+## Support
+
+If you find Klicker useful, consider buying me a coffee:
+
+<a href="https://buymeacoffee.com/robsonferr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180"></a>
+
+## Credits
+
+Custom click sounds (`sounds/`) generated with [ElevenLabs Sound Effects](https://elevenlabs.io/sound-effects/mouse-click).
 
 ## License
 
